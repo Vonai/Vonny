@@ -1,1 +1,1 @@
-# Vonny
+# Vonny I am a PhD student. I am interest in advanced the Rasch model to include group effects. I am new to programming and hence would want to learn more, as well as gain access to codes created by other researchers in the field
